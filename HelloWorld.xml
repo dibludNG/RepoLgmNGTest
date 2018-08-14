@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Module>
+<ModulePrefs title='Hello, World' height='250' scrolling='true'>
+<Require feature='com.ibm.rdm.rm.api'></Require>
+</ModulePrefs>
+<Content type='html'>
+<![CDATA[
+<html>
+   <head>
+   </head>
+   <body>
+   Hello, World.  This is an RM Extension.
+   </body>
+</html>
+]]>
+</Content>
+</Module>
