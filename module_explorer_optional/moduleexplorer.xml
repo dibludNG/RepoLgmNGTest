@@ -9,7 +9,7 @@ U.S. Government Users Restricted Rights:  Use, duplication or disclosure restric
 <Module specificationVersion="2.0">
 <ModulePrefs title="Module Explorer">
 	<Optional feature="com.ibm.rdm.rm.api"></Require>
-	<Optional feature="dynamic-height"/>
+	<Require feature="dynamic-height"/>
 </ModulePrefs>
 <Content type="html">
 <![CDATA[
